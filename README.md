@@ -1,6 +1,6 @@
 # Mohamed Osama Kandil
 
-**Flutter Developer · AI Integration · Cairo, Egypt**
+**Flutter Developer · AI Integration**
 
 I build cross-platform mobile applications with Flutter and integrate AI to solve real problems — currently focused on the Egyptian market and Arabic language AI.
 
@@ -48,4 +48,4 @@ Sole mobile developer · Booking module with 10+ screens · Bloc state managemen
 
 ---
 
-*Cairo, Egypt · Open to opportunities · bedaya.software@gmail.com*
+*Cairo, Egypt · Open to opportunities · mohamed.99.kandel@gmail.com*
