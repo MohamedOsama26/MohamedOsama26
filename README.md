@@ -11,7 +11,7 @@ I build cross-platform mobile applications with Flutter and integrate AI to solv
 **[Makany — مكاني](https://github.com/MohamedOsama26/makany)** — AI-powered local discovery app for Egypt  
 Bilingual Egyptian Arabic/English natural language search · Google Gemini · Flutter + Node.js
 
-**[Ollama Egyptian Chat](https://github.com/MohamedOsama26/ollama-egyptian-chat)** — Open source Flutter AI chat client  
+**[Ollama Chat](https://github.com/MohamedOsama26/ollama_chat)** — Open source Flutter AI chat client  
 First Flutter Ollama client with native Egyptian Arabic dialect support and RTL layout
 
 ---
